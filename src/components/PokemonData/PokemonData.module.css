@@ -1,0 +1,10 @@
+.pokemonDiv {
+    position: relative;
+    bottom: 15rem;
+}
+
+.pokemonDiv h5 {
+    font-size: 2rem;
+    text-transform: capitalize;
+    color: #fff;    
+}

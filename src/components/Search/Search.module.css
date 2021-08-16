@@ -1,0 +1,23 @@
+.inputSearch {
+    position: relative;
+    bottom: 16rem;
+    z-index: 1000;
+}
+
+.inputSearch input {
+    border: 2px solid #f7f7f7;
+    border-radius: 3px;
+}
+
+.inputSearch input:hover {
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+
+.inputSearch button {
+    background: #3564ad;
+    border-radius: 3px;
+    color: #fff;
+    font-family: 'Nunito';
+    font-weight: bold;
+}
